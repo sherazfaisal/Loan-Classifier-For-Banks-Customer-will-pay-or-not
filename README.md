@@ -1,4 +1,4 @@
-# Loan Classifier(WillPayORNot) For Banks
+# Loan Classifier For Banks - Customer will pay or not!
 We have designed a loan classifier for banks that will extract a raw data from customers and predict if the person is going to payoff the loan or not. We have manaaged to build visually appealing way of understanding data as well as 5 different models for loan predicting system to get utilized according to the optimum need.
 
 This dataset is about past loans. The Loan_train.csv data set includes details of 346 customers whose loan are already paid off or defaulted. It includes following fields:
